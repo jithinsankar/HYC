@@ -25,7 +25,9 @@ A combination of YOLO and HaarCascade to identify objects and people by their na
  
  `python create_data.py`
  
- ### STEP 2:Run the detector by opening the directory in terminal and by typing
+ ### STEP 2:Run the detector by 
+ Open the directory in terminal type
+ 
  `./run.sh`
  
  Viola the output video is displayed on the screen
