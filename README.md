@@ -3,10 +3,21 @@ A combination of YOLO and HaarCascade to identify objects and people by their na
 
 !!! I am not the one who owns the ownership of this code.What I did is just combine YOLO and haarcascade algorithm into a single bash command.All the credit goes to Joseph Redmon.The code uses the weights of tiny YOLO v3 for faster performance.
 
+## Sample Output
+![Sample](/335419.jpg)
+
+The pink bounding box denotes the YOLO detection and the green bounding box denotes the Haar Cascade Algorithm
+
 ## Prerequisites
 1.OpenCV with Python 2.7 running on Linux/Mac OS
 
 2.NVIDIA GPU with CUDA enabled for faster performance (x500 times than CPU ,optional)
+
+Clone this repository by typing 
+
+`git clone https://github.com/jithinsankar/HYC.git`
+
+
 ### STEP 1: Generate training images
  Open the directory in terminal and type `
  ```
