@@ -6,7 +6,7 @@ A combination of YOLO and HaarCascade to identify objects and people by their na
 ## Sample Output
 ![Sample](/335419.jpg)
 
-The pink bounding box denotes the YOLO detection and the green bounding box denotes the Haar Cascade Algorithm
+The pink bounding box denotes the YOLO detection and the green bounding box denotes the detection by Haar Cascade Algorithm
 
 ## Prerequisites
 1.OpenCV with Python 2.7 running on Linux/Mac OS
