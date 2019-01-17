@@ -6,8 +6,7 @@ A combination of YOLO and HaarCascade to identify objects and people by their na
 ## Prerequisites
 1.OpenCV with Python 2.7 running on Linux/Mac OS
 
-2.NVIDIA GPU with CUDA enabled for faster performance
-
+2.NVIDIA GPU with CUDA enabled for faster performance (x500 times than CPU ,optional)
 ### STEP 1: Generate training images
  Open the directory in terminal and type `
  ```
