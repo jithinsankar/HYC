@@ -24,7 +24,9 @@ A combination of YOLO and HaarCascade to identify objects and people by their na
  
  `python create_data.py`
  
- ### STEP 2:Run the detector by 
+ Now the webcam will record 30 frames for training data.
+ 
+ ### STEP 2:Run the detector
  Open the directory in terminal type
  
  `./run.sh`
